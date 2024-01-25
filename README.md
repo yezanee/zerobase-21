@@ -6,5 +6,5 @@
 </br>
 </br>
 
-블로그 : [velog 링크](https://velog.io/@yezanee/posts)
+블로그 : [velog](https://velog.io/@yezanee/posts)
 </br> ⇧ 블로그에도 업로드
