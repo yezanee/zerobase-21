@@ -32,6 +32,7 @@
 
 </br>
 
+```java
 // 기초 수학 - 집합
 
 import java.util.ArrayList;
@@ -78,6 +79,7 @@ public class Main {
     }
 
 }
+```
 
 </br>
 
