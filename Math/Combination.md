@@ -1,3 +1,26 @@
+> 제로베이스 백엔드 스쿨 21기
+
+</br>
+
+# 조합 (Combination)
+
+- 서로 다른 n개 중에서 r개를 선택하는 경우의 수 (순서 X, 중복 X)
+  - 예시 ) 서로 다른 4명 중 주번 2명 뽑는 방법
+  
+![](https://velog.velcdn.com/images/yezanee/post/9f7d4a4d-3069-421e-a40c-521bf5f984ef/image.png)
+
+</br>
+
+# 중복 조합
+
+- 서로 다른 n개 중에서 r개를 선택하는 경우의 수 (순서 X, 중복 O)
+  - 예시) 후보 2명, 유권자 3명일 때 무기명 투표 방법
+  
+![](https://velog.velcdn.com/images/yezanee/post/79bda5d8-7729-4310-ac54-08e48d6f7a2b/image.png)
+
+</br>
+
+```java
 // Practice
 // 1, 2, 3, 4 를 이용하여 세자리 자연수를 만드는 방법 (순서 X, 중복 x)의 각 결과를 출력하시오
 
@@ -75,4 +98,5 @@ vi~ = 1 1 0 1
 out : 1 2 4
 ...
 
- */
+*/
+```
